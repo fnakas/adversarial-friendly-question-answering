@@ -1,4 +1,4 @@
-# Domain_Friendly_Adversarial_Learning_for_Robust_QA
+# Domain Friendly Adversarial Learning for Robust QA
  
 Partial code companion to the paper "With Such Friends, Who Needs Enemies? Using A "Friendly" Question Type Discriminator For Robust QA Training" (see pdf in the repository).
 
